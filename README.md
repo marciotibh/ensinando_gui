@@ -1,2 +1,2 @@
 # ensinando_gui
- ensinando o guilherme guithub
+ ensinando o guilherme henrique a trabalhar com guithub
